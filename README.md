@@ -7,3 +7,4 @@
 
 #![SELECTION SORT](https://user-images.githubusercontent.com/115396834/209466984-9bee276e-624a-43a2-bb43-60b5e9397776.png)
 
+![SS2](https://user-images.githubusercontent.com/115396834/209467076-82ed97b0-f459-419f-8a70-a7adc4e8c5c8.png)
